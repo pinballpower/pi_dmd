@@ -31,4 +31,4 @@ git clone https://github.com/pinballpower/code_dmdreader
 cd code_dmdreader
 . install-pi-software.sh
 . compile-pi.sh
-´´´
+```
